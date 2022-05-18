@@ -1,0 +1,13 @@
+*{
+    height: 0cm;
+    width: 0ch;
+}
+body{
+    background: rgb(131, 131, 200);
+    border: 10px solid blue;
+    text-align: center;
+    justify-content: center;
+}
+g-signin2{
+    text-align: center;
+}
